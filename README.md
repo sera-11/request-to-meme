@@ -10,3 +10,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | -------- | ------- | ------- |
 | ![](./assets/wheres-the-mouse.webp) | [Ian Heraty](https://github.com/heratyian) | [source](https://wallpapers.com/images/featured-full/cat-meme-pictures-9anza1hu2l2k0wyp.jpg) |
 | ![](./assets/css_pro.webp) | [Mena Castillo](https://github.com/Meenoow) | [source](https://medium.com/agileactors/program-memes-45f69695457e) |
+|![](./assets/dumpster.webp)| [Jacob Hoffmann](https://github.com/jacobhoffmann257) | [source](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25zcTlocTdpdTNvc3hubHk3enJuOG51Zmh1dHoweGpuYXZpZ3psbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/giLKqcYUzgoUe9tioR/giphy.gif)
