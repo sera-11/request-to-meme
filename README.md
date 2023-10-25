@@ -15,3 +15,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](https://pbs.twimg.com/media/F7tPqVGWsAAoXOc?format=jpg&name=large) | [Jun So](https://github.com/thatcantbeso) | [source](https://twitter.com/KennethCassel/status/1710048342535753795)
 | ![](https://i.kym-cdn.com/photos/images/newsfeed/001/439/882/4f7.png) | [Kat Jarboe](https://github.com/melo616) | [source](https://knowyourmeme.com/photos/1439882-coughing-cat)
 | ![](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) | [Thierry Chau](https://github.com/thierrychau) | [source](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) |
+| ![](https://static.wikia.nocookie.net/2de4adcb-0203-4e26-9938-0fda6d3a735f/scale-to-width/755) | [Ethan Huang] (https://github.com/EthanKH) | [source] (https://static.wikia.nocookie.net/2de4adcb-0203-4e26-9938-0fda6d3a735f/scale-to-width/755) |
