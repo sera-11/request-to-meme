@@ -11,8 +11,12 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](./assets/wheres-the-mouse.webp) | [Ian Heraty](https://github.com/heratyian) | [source](https://wallpapers.com/images/featured-full/cat-meme-pictures-9anza1hu2l2k0wyp.jpg) |
 | ![](./assets/css_pro.webp) | [Mena Castillo](https://github.com/Meenoow) | [source](https://medium.com/agileactors/program-memes-45f69695457e) |
 | ![](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) | [Thierry Chau](https://github.com/thierrychau) | [source](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) |
+<<<<<<< HEAD
 | ![](./assets/MrDeer.jpeg) | [Jason Ho](https://github.com/jasonho404) | [source](https://www.pinterest.com/pin/found-on-americas-best-pics-and-videos--782430135277693078/) |
 | ![](./assets/pickle-meme-aldo.jpg) | [Aldo Portillo](https://github.com/aldoportillo) | [source](https://pbs.twimg.com/media/FsXbMgoWcAAut83.jpg) |=
+=======
+| ![](./assets/three-spidermen.jpeg) | [Alejandro Lopez](https://github.com/alejlopez139) | [source](https://pbs.twimg.com/media/FMTJZP4VgAEWxxr?format=jpg&name=large)
+>>>>>>> d7c5b3b432ce1d04dbb02d525eff3bc80061df49
 |![](./assets/dumpster.webp)| [Jacob Hoffmann](https://github.com/jacobhoffmann257) | [source](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25zcTlocTdpdTNvc3hubHk3enJuOG51Zmh1dHoweGpuYXZpZ3psbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/giLKqcYUzgoUe9tioR/giphy.gif)
 | ![](./assets/pickle-meme-aldo.jpg) | [Aldo Portillo](https://github.com/aldoportillo) | [source](https://pbs.twimg.com/media/FsXbMgoWcAAut83.jpg) |
 | ![](./assets/one-does-not-zjxkyt.jpg)| [Andrew Cook](https://github.com/andrewhcook) | [source](https://media.makeameme.org/created/one-does-not-zjxkyt.jpg) |
@@ -30,4 +34,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/Thierry - corrected.jpg) | [Chierry Thau](https://github.com/armstrca) | [source](https://dashboard.dpi.dev/cohorts/126be8e2-7a8d-4725-8509-d6e8a48dbbe8/enrollments/2713d7ec-cd2a-4bc0-bc47-469cd4d567cc/snapshot) |
 | ![](https://i.imgflip.com/6n6qu2.jpg) | [Carman Chiu](https://github.com/chiucarman) | [Source](https://imgflip.com/i/6n6qu2) |
 | ![](./assets/cat_memosis.jpg) | [Dmitrii Sumenko](https://github.com/flstudio4) | [source](https://www.newshub.co.nz/home/lifestyle/2019/08/the-top-five-cat-memes-of-all-time-rated.html) |
+<<<<<<< HEAD
 | ![](./assets/three-spidermen.jpeg) | [Alejandro Lopez](https://github.com/alejlopez139) | [source](https://pbs.twimg.com/media/FMTJZP4VgAEWxxr?format=jpg&name=large)
+=======
+>>>>>>> d7c5b3b432ce1d04dbb02d525eff3bc80061df49
