@@ -19,4 +19,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](https://pbs.twimg.com/media/F7tPqVGWsAAoXOc?format=jpg&name=large) | [Jun So](https://github.com/thatcantbeso) | [source](https://twitter.com/KennethCassel/status/1710048342535753795) |
 | ![](https://i.kym-cdn.com/photos/images/newsfeed/001/439/882/4f7.png) | [Kat Jarboe](https://github.com/melo616) | [source](https://knowyourmeme.com/photos/1439882-coughing-cat) |
 | ![](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) | [Thierry Chau](https://github.com/thierrychau) | [source](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) |
-
+| ![](./assets/dos_equis_meme.jpeg) | [Jorge Pioquinto](https://github.com/Jorge-Pioquinto) | [source](https://i.pinimg.com/originals/f6/9b/76/f69b76501091fa5fb0e026a6a23ecbbe.jpg) |
