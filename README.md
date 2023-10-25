@@ -11,3 +11,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](./assets/wheres-the-mouse.webp) | [Ian Heraty](https://github.com/heratyian) | [source](https://wallpapers.com/images/featured-full/cat-meme-pictures-9anza1hu2l2k0wyp.jpg) |
 | ![](./assets/css_pro.webp) | [Mena Castillo](https://github.com/Meenoow) | [source](https://medium.com/agileactors/program-memes-45f69695457e) |
 | ![](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) | [Thierry Chau](https://github.com/thierrychau) | [source](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) |
+| ![](./assets/pickle-meme-aldo.jpg) | [Aldo Portillo](https://github.com/aldoportillo) | [source](https://pbs.twimg.com/media/FsXbMgoWcAAut83.jpg) |
