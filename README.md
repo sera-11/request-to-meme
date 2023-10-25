@@ -12,6 +12,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](./assets/css_pro.webp) | [Mena Castillo](https://github.com/Meenoow) | [source](https://medium.com/agileactors/program-memes-45f69695457e) |
 | ![](./assets/tech-interview-meme.jpeg) | [Ian Heraty](https://github.com/heratyian) | [source](https://twitter.com/daboigbae/status/1698017944478130210?s=12)
 | ![](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) | [Thierry Chau](https://github.com/thierrychau) | [source](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) |
+| ![](./assets/zoom_meeting.jpeg) | [Alina Sapronova](https://github.com/AlinaSapronova) | [source](https://bascomtelephone.com/community/latest-news/best-tech-memes-2020/) |
 | ![](./assets/sams_meme_pic.webp) | [Sam Lubliner](https://github.com/Samuel-Lubliner) | [source](https://www.youtube.com/watch?v=Uo3cL4nrGOk) |
 | ![](./assets/work_meme.webp) | [David Hibble](https://github.com/hibbleD) | [source](https://www.happierhuman.com/funny-memes-work-stress/) |
 | ![](./assets/patrick.jpeg) | [Andre Garner](https://github.com/ajgarner98) | [source](https://imgb.ifunny.co/images/0667ce7b82216c72216e82e5946a1fed0b452a2ffe5893eee84737c29d2dd079_1.jpg) |
@@ -34,4 +35,3 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/Thierry - corrected.jpg) | [Chierry Thau](https://github.com/armstrca) | [source](https://dashboard.dpi.dev/cohorts/126be8e2-7a8d-4725-8509-d6e8a48dbbe8/enrollments/2713d7ec-cd2a-4bc0-bc47-469cd4d567cc/snapshot) |
 | ![](https://i.imgflip.com/6n6qu2.jpg) | [Carman Chiu](https://github.com/chiucarman) | [Source](https://imgflip.com/i/6n6qu2) |
 | ![](./assets/cat_memosis.jpg) | [Dmitrii Sumenko](https://github.com/flstudio4) | [source](https://www.newshub.co.nz/home/lifestyle/2019/08/the-top-five-cat-memes-of-all-time-rated.html) |
-| ![](./assets/cat_memosis.jpeg) | [Dmitrii Sumenko](https://github.com/flstudio4) | [source](https://www.newshub.co.nz/home/lifestyle/2019/08/the-top-five-cat-memes-of-all-time-rated.html) |
