@@ -12,12 +12,12 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](./assets/css_pro.webp) | [Mena Castillo](https://github.com/Meenoow) | [source](https://medium.com/agileactors/program-memes-45f69695457e) |
 | ![](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) | [Thierry Chau](https://github.com/thierrychau) | [source](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) |
 | ![](./assets/zoom_meeting.jpeg) | [Alina Sapronova](https://github.com/AlinaSapronova) | [source](https://bascomtelephone.com/community/latest-news/best-tech-memes-2020/) |
+| ![](./assets/sams_meme_pic.webp) | [Sam Lubliner](https://github.com/Samuel-Lubliner) | [source](https://www.youtube.com/watch?v=Uo3cL4nrGOk) |
+| ![](./assets/work_meme.webp) | [David Hibble](https://github.com/hibbleD) | [source](https://www.happierhuman.com/funny-memes-work-stress/) |
 | ![](./assets/patrick.jpeg) | [Andre Garner](https://github.com/ajgarner98) | [source](https://imgb.ifunny.co/images/0667ce7b82216c72216e82e5946a1fed0b452a2ffe5893eee84737c29d2dd079_1.jpg) |
 | ![](./assets/MrDeer.jpeg) | [Jason Ho](https://github.com/jasonho404) | [source](https://www.pinterest.com/pin/found-on-americas-best-pics-and-videos--782430135277693078/) |
-| ![](./assets/pickle-meme-aldo.jpg) | [Aldo Portillo](https://github.com/aldoportillo) | [source](https://pbs.twimg.com/media/FsXbMgoWcAAut83.jpg) |
-| ![](./assets/dumpster.webp)| [Jacob Hoffmann](https://github.com/jacobhoffmann257) | [source](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25zcTlocTdpdTNvc3hubHk3enJuOG51Zmh1dHoweGpuYXZpZ3psbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/giLKqcYUzgoUe9tioR/giphy.gif) |
-| ![](./assets/pickle-meme-aldo.jpg) | [Aldo Portillo](https://github.com/aldoportillo) | [source](https://pbs.twimg.com/media/FsXbMgoWcAAut83.jpg) |
-| ![](./assets/work_meme.webp) | [David Hibble](https://github.com/hibbleD) | [source](https://www.happierhuman.com/funny-memes-work-stress/) |
+| ![](./assets/pickle-meme-aldo.jpg) | [Aldo Portillo](https://github.com/aldoportillo) | [source](https://pbs.twimg.com/media/FsXbMgoWcAAut83.jpg) |=
+| ![](./assets/dumpster.webp)| [Jacob Hoffmann](https://github.com/jacobhoffmann257) | [source](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa25zcTlocTdpdTNvc3hubHk3enJuOG51Zmh1dHoweGpuYXZpZ3psbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/giLKqcYUzgoUe9tioR/giphy.gif)
 | ![](./assets/one-does-not-zjxkyt.jpg)| [Andrew Cook](https://github.com/andrewhcook) | [source](https://media.makeameme.org/created/one-does-not-zjxkyt.jpg) |
 | ![](./assets/Oprah-meetings-meme-1.png) | [Alex Mompremier](https://github.com/ajmompr) | [source](https://www.ntaskmanager.com/wp-content/uploads/2018/03/Oprah-meetings-meme-1.png) |
 | ![](./assets/coffee-meme-hello-darkness-my-old-friend.jpg) | [Fidel Leal](https://github.com/fidel-techprep) | [source](https://i0.wp.com/roomescapeartist.com/wp-content/uploads/2016/07/coffee-meme-hello-darkness-my-old-friend.jpg?ssl%253D1) |
