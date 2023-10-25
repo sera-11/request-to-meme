@@ -10,6 +10,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | -------- | ------- | ------- |
 | ![](./assets/wheres-the-mouse.webp) | [Ian Heraty](https://github.com/heratyian) | [source](https://wallpapers.com/images/featured-full/cat-meme-pictures-9anza1hu2l2k0wyp.jpg) |
 | ![](./assets/css_pro.webp) | [Mena Castillo](https://github.com/Meenoow) | [source](https://medium.com/agileactors/program-memes-45f69695457e) |
+| ![](./assets/one-does-not-zjxkyt.jpg)| [Andrew Cook](https://github.com/andrewhcook) | [source](https://media.makeameme.org/created/one-does-not-zjxkyt.jpg) |
 | ![](./assets/Oprah-meetings-meme-1.png) | [Alex Mompremier](https://github.com/ajmompr) | [source](https://www.ntaskmanager.com/wp-content/uploads/2018/03/Oprah-meetings-meme-1.png) |
 | ![](./assets/coffee-meme-hello-darkness-my-old-friend.jpg) | [Fidel Leal](https://github.com/fidel-techprep) | [source](https://i0.wp.com/roomescapeartist.com/wp-content/uploads/2016/07/coffee-meme-hello-darkness-my-old-friend.jpg?ssl%253D1) |
 | ![](./assets/pickle-meme-aldo.jpg) | [Aldo Portillo](https://github.com/aldoportillo) | [source](https://pbs.twimg.com/media/FsXbMgoWcAAut83.jpg) |
