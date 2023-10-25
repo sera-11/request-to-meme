@@ -26,6 +26,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](https://pbs.twimg.com/media/F7tPqVGWsAAoXOc?format=jpg&name=large) | [Jun So](https://github.com/thatcantbeso) | [source](https://twitter.com/KennethCassel/status/1710048342535753795) |
 | ![](https://i.kym-cdn.com/photos/images/newsfeed/001/439/882/4f7.png) | [Kat Jarboe](https://github.com/melo616) | [source](https://knowyourmeme.com/photos/1439882-coughing-cat) |
 | ![](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) | [Thierry Chau](https://github.com/thierrychau) | [source](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) |
+| ![](./assets/Hilarious-Cat-Memes-2.jpg) | [Akin Campbell](https://github.com/akincampbell) | [source](https://www.rd.com/wp-content/uploads/2023/04/Hilarious-Cat-Memes-2.jpg?fit=700%2C700?fit=700,700) |
 | ![](assets/toothpaste-crazy.png) | [Calvin Armstrong](https://github.com/armstrca) | [source](https://i.ibb.co/hszQB7G/Screenshot-20231025-134628-2.png) |
 | ![](assets/Thierry - corrected.jpg) | [Chierry Thau](https://github.com/armstrca) | [source](https://dashboard.dpi.dev/cohorts/126be8e2-7a8d-4725-8509-d6e8a48dbbe8/enrollments/2713d7ec-cd2a-4bc0-bc47-469cd4d567cc/snapshot) |
 | ![](https://i.imgflip.com/6n6qu2.jpg) | [Carman Chiu](https://github.com/chiucarman) | [Source](https://imgflip.com/i/6n6qu2) |
