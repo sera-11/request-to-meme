@@ -10,7 +10,10 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | -------- | ------- | ------- |
 | ![](./assets/wheres-the-mouse.webp) | [Ian Heraty](https://github.com/heratyian) | [source](https://wallpapers.com/images/featured-full/cat-meme-pictures-9anza1hu2l2k0wyp.jpg) |
 | ![](./assets/css_pro.webp) | [Mena Castillo](https://github.com/Meenoow) | [source](https://medium.com/agileactors/program-memes-45f69695457e) |
+| ![](./assets/memes.webp) | [RJ](https://github.com/RJDPI) | [source](https://img-aws.ehowcdn.com/700x/cdn.onlyinyourstate.com/wp-content/uploads/2018/02/Facebook_Chicago-Memes12-700x704.jpg) | 
+| ![](./assets/tech-interview-meme.jpeg) | [Ian Heraty](https://github.com/heratyian) | [source](https://twitter.com/daboigbae/status/1698017944478130210?s=12)
 | ![](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) | [Thierry Chau](https://github.com/thierrychau) | [source](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) |
+| ![](./assets/zoom_meeting.jpeg) | [Alina Sapronova](https://github.com/AlinaSapronova) | [source](https://bascomtelephone.com/community/latest-news/best-tech-memes-2020/) |
 | ![](./assets/sams_meme_pic.webp) | [Sam Lubliner](https://github.com/Samuel-Lubliner) | [source](https://www.youtube.com/watch?v=Uo3cL4nrGOk) |
 | ![](./assets/work_meme.webp) | [David Hibble](https://github.com/hibbleD) | [source](https://www.happierhuman.com/funny-memes-work-stress/) |
 | ![](./assets/patrick.jpeg) | [Andre Garner](https://github.com/ajgarner98) | [source](https://imgb.ifunny.co/images/0667ce7b82216c72216e82e5946a1fed0b452a2ffe5893eee84737c29d2dd079_1.jpg) |
