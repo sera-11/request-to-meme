@@ -10,6 +10,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | -------- | ------- | ------- |
 | ![](./assets/wheres-the-mouse.webp) | [Ian Heraty](https://github.com/heratyian) | [source](https://wallpapers.com/images/featured-full/cat-meme-pictures-9anza1hu2l2k0wyp.jpg) |
 | ![](./assets/css_pro.webp) | [Mena Castillo](https://github.com/Meenoow) | [source](https://medium.com/agileactors/program-memes-45f69695457e) |
+| ![](./assets/tech-interview-meme.jpeg) | [Ian Heraty](https://github.com/heratyian) | [source](https://twitter.com/daboigbae/status/1698017944478130210?s=12)
 | ![](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) | [Thierry Chau](https://github.com/thierrychau) | [source](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) |
 | ![](./assets/sams_meme_pic.webp) | [Sam Lubliner](https://github.com/Samuel-Lubliner) | [source](https://www.youtube.com/watch?v=Uo3cL4nrGOk) |
 | ![](./assets/work_meme.webp) | [David Hibble](https://github.com/hibbleD) | [source](https://www.happierhuman.com/funny-memes-work-stress/) |
