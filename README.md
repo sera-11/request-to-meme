@@ -38,3 +38,4 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](assets/Thierry_corrected.jpg) | [Chierry Thau](https://github.com/armstrca) | [source](https://dashboard.dpi.dev/cohorts/126be8e2-7a8d-4725-8509-d6e8a48dbbe8/enrollments/2713d7ec-cd2a-4bc0-bc47-469cd4d567cc/snapshot) |
 | ![](https://i.imgflip.com/6n6qu2.jpg) | [Carman Chiu](https://github.com/chiucarman) | [Source](https://imgflip.com/i/6n6qu2) |
 | ![](./assets/cat_memosis.jpeg) | [Dmitrii Sumenko](https://github.com/flstudio4) | [source](https://www.newshub.co.nz/home/lifestyle/2019/08/the-top-five-cat-memes-of-all-time-rated.html) |
+| ![](https://static.wikia.nocookie.net/2de4adcb-0203-4e26-9938-0fda6d3a735f/scale-to-width/755) | [Ethan Huang] (https://github.com/EthanKH) | [source] (https://static.wikia.nocookie.net/2de4adcb-0203-4e26-9938-0fda6d3a735f/scale-to-width/755) |
