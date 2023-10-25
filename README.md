@@ -22,6 +22,6 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](https://i.kym-cdn.com/photos/images/newsfeed/001/439/882/4f7.png) | [Kat Jarboe](https://github.com/melo616) | [source](https://knowyourmeme.com/photos/1439882-coughing-cat) |
 | ![](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) | [Thierry Chau](https://github.com/thierrychau) | [source](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) |
 | ![](assets/toothpaste-crazy.png) | [Calvin Armstrong](https://github.com/armstrca) | [source](https://i.ibb.co/hszQB7G/Screenshot-20231025-134628-2.png) |
-| ![](assets/Thierry - corrected.jpg) | [Chierry Thau](https://github.com/armstrca) | [source](https://dashboard.dpi.dev/cohorts/126be8e2-7a8d-4725-8509-d6e8a48dbbe8/enrollments/2713d7ec-cd2a-4bc0-bc47-469cd4d567cc/snapshot) |
+| ![](assets/Thierry_corrected.jpg) | [Chierry Thau](https://github.com/armstrca) | [source](https://dashboard.dpi.dev/cohorts/126be8e2-7a8d-4725-8509-d6e8a48dbbe8/enrollments/2713d7ec-cd2a-4bc0-bc47-469cd4d567cc/snapshot) |
 | ![](https://i.imgflip.com/6n6qu2.jpg) | [Carman Chiu](https://github.com/chiucarman) | [Source](https://imgflip.com/i/6n6qu2) |
 | ![](./assets/cat_memosis.jpg) | [Dmitrii Sumenko](https://github.com/flstudio4) | [source](https://www.newshub.co.nz/home/lifestyle/2019/08/the-top-five-cat-memes-of-all-time-rated.html) |
