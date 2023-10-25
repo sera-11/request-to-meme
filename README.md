@@ -8,6 +8,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 
 | Meme | Submitted By | Source |
 | -------- | ------- | ------- |
+| ![](./assets/Jat_Karboe.jpg) | [Jat Karboe](https://github.com/melo616) | [source](https://dashboard.dpi.dev/cohorts/126be8e2-7a8d-4725-8509-d6e8a48dbbe8/enrollments/ad22c5bf-4269-4af0-bd89-f7915c9f8298/snapshot) |
 | ![](./assets/wheres-the-mouse.webp) | [Ian Heraty](https://github.com/heratyian) | [source](https://wallpapers.com/images/featured-full/cat-meme-pictures-9anza1hu2l2k0wyp.jpg) |
 | ![](./assets/bwimage.jpeg) | [Brian Waddell](https://github.com/Brian-Waddell) | [source](https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/278198975_3069239186721300_8146581222467992731_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kJ-BD7YozQwAX9udrWB&_nc_ht=scontent-ord5-2.xx&oh=00_AfDBefafzBfNjg6qUA1gAL0LyRviO4bRgUg4AUqf1pkkrA&oe=653D8F44) |
 | ![](./assets/css_pro.webp) | [Mena Castillo](https://github.com/Meenoow) | [source](https://medium.com/agileactors/program-memes-45f69695457e) |
@@ -34,7 +35,7 @@ Clone this repository (or open in codespace). Create an issue with a meme descri
 | ![](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) | [Thierry Chau](https://github.com/thierrychau) | [source](https://sm.mashable.com/t/mashable_sea/photo/default/2_6n5e.2496.png) |
 | ![](./assets/dos_equis_meme.jpeg) | [Jorge Pioquinto](https://github.com/Jorge-Pioquinto) | [source](https://i.pinimg.com/originals/f6/9b/76/f69b76501091fa5fb0e026a6a23ecbbe.jpg) |
 | ![](./assets/Hilarious-Cat-Memes-2.jpg) | [Akin Campbell](https://github.com/akincampbell) | [source](https://www.rd.com/wp-content/uploads/2023/04/Hilarious-Cat-Memes-2.jpg?fit=700%2C700?fit=700,700) |
-| ![](assets/toothpaste-crazy.png) | [Calvin Armstrong](https://github.com/armstrca) | [source](https://i.ibb.co/hszQB7G/Screenshot-20231025-134628-2.png) |
-| ![](assets/Thierry_corrected.jpg) | [Chierry Thau](https://github.com/armstrca) | [source](https://dashboard.dpi.dev/cohorts/126be8e2-7a8d-4725-8509-d6e8a48dbbe8/enrollments/2713d7ec-cd2a-4bc0-bc47-469cd4d567cc/snapshot) |
+| ![](./assets/toothpaste-crazy.png) | [Calvin Armstrong](https://github.com/armstrca) | [source](https://i.ibb.co/hszQB7G/Screenshot-20231025-134628-2.png) |
+| ![](./assets/Thierry_corrected.jpg) | [Chierry Thau](https://github.com/thierrychau) | [source](https://dashboard.dpi.dev/cohorts/126be8e2-7a8d-4725-8509-d6e8a48dbbe8/enrollments/2713d7ec-cd2a-4bc0-bc47-469cd4d567cc/snapshot) |
 | ![](https://i.imgflip.com/6n6qu2.jpg) | [Carman Chiu](https://github.com/chiucarman) | [Source](https://imgflip.com/i/6n6qu2) |
 | ![](./assets/cat_memosis.jpeg) | [Dmitrii Sumenko](https://github.com/flstudio4) | [source](https://www.newshub.co.nz/home/lifestyle/2019/08/the-top-five-cat-memes-of-all-time-rated.html) |
